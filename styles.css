@@ -1,0 +1,14 @@
+body {
+  background-color: burlywood;
+}
+
+h1 {
+  font-family: Verdana, sans-serif;
+  border-bottom: 2px solid black;
+  text-align: center;
+  padding: 10px;
+}
+
+ul {
+  list-style: none;
+}
